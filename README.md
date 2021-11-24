@@ -1,2 +1,2 @@
 # collection-go
-weird and easy collection in go
+weird but easy collection in go
